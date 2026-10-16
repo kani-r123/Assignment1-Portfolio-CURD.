@@ -1,24 +1,25 @@
 package com.example.crudapi;
 
 public class Student {
-    private int id;
+
+    private Long id;
     private String name;
     private String course;
 
     public Student() {
     }
 
-    public Student(int id, String name, String course) {
+    public Student(Long id, String name, String course) {
         this.id = id;
         this.name = name;
         this.course = course;
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
