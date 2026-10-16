@@ -15,13 +15,13 @@ function App() {
       </header>
 
       <section id="home">
-        <h2>Hello, I'm a Student Developer</h2>
+        <h2>Hello, I'm Kanishka,a Student Developer</h2>
         <p>Welcome to my personal portfolio.</p>
       </section>
 
       <section id="about">
         <h2>About Me</h2>
-        <p>I am an engineering student learning web development.</p>
+        <p>Hello! I am an engineering student with an interest in technology, programming, and web development. I enjoy learning new skills, solving problems, and building creative projects. My goal is to improve my technical knowledge and use it to develop useful solutions..</p>
       </section>
 
       <section id="skills">
